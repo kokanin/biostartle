@@ -1,0 +1,989 @@
+# Nmap 6.40 scan initiated Fri Jul 25 16:16:36 2014 as: nmap -iL real1471 -sT -p 1471 --open -oA 1471nmap
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+Nmap scan report for 8.18.37.31
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 27.54.251.164
+Host is up (0.45s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 27.54.255.90
+Host is up (0.43s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 38.108.93.112
+Host is up (0.085s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 41.220.144.197
+Host is up (0.050s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 58.3.95.180
+Host is up (0.26s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 60.173.8.80
+Host is up (0.45s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 60.173.11.228
+Host is up (0.38s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for undef.books.com.tw (61.31.192.85)
+Host is up (0.27s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 61.155.154.93
+Host is up (0.48s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 61.164.150.234
+Host is up (0.40s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 61.190.149.25
+Host is up (0.45s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 66.18.89.68
+Host is up (0.21s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for dpc6745110070.direcpc.com (67.45.110.70)
+Host is up (0.14s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for dpc6746165045.direcpc.com (67.46.165.45)
+Host is up (0.76s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.49.177.216
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.49.177.232
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.49.184.58
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.49.184.203
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.49.188.79
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.162.227.252
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.162.233.0
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.162.233.180
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.162.236.211
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.162.236.241
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.162.243.170
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.162.243.238
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.162.245.183
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.162.246.244
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.162.252.159
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 69.162.253.175
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 70.37.225.159
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 70.37.228.25
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 70.37.229.247
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 70.37.232.8
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 70.37.236.181
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 70.37.247.186
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 70.37.253.100
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 70.37.255.99
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for host72171002116.direcway.com (72.171.6.211)
+Host is up (0.70s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for host721710013211.direcway.com (72.171.11.132)
+Host is up (0.71s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for host721710025243.direcway.com (72.171.243.25)
+Host is up (0.69s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 75.126.61.103-static.reverse.softlayer.com (75.126.61.103)
+Host is up (0.13s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 77.246.62.52
+Host is up (0.28s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 78.128.253.136
+Host is up (0.030s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 80.81.214.202
+Host is up (0.033s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 80.240.65.238
+Host is up (0.10s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 82.167.55.156
+Host is up (0.10s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for cliente-15649.iberbanda.es (82.198.125.31)
+Host is up (0.051s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 83.145.43.205
+Host is up (0.014s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for cliente-37165.iberbanda.es (83.230.209.43)
+Host is up (0.053s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 88-202-92-128.ip.skylogicnet.com (88.202.92.128)
+Host is up (0.0061s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 88-202-93-228.ip.skylogicnet.com (88.202.93.228)
+Host is up (0.0055s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 88-202-93-235.ip.skylogicnet.com (88.202.93.235)
+Host is up (0.0047s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 88.210.156.183
+Host is up (0.0079s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 93.92.91.194
+Host is up (0.046s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 93.109.226.213
+Host is up (0.070s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 99-197-135-126.cust.wildblue.net (99.197.135.126)
+Host is up (0.13s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for mail.sunwaychina.net (112.95.235.14)
+Host is up (0.43s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 112.95.238.181
+Host is up (0.46s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 113.21.208.25
+Host is up (0.29s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 113.106.90.216
+Host is up (0.51s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 114.80.70.158
+Host is up (0.41s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 114.80.78.232
+Host is up (0.45s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 115.47.1.96
+Host is up (2.7s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 115.47.7.188
+Host is up (0.37s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 115.47.18.31
+Host is up (0.44s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 115.47.19.4
+Host is up (0.37s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 115.47.25.71
+Host is up (0.40s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 115.47.26.77
+Host is up (0.37s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 115.47.41.146
+Host is up (0.38s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 115.47.41.254
+Host is up (3.0s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 115.238.250.95
+Host is up (0.51s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 115.238.252.222
+Host is up (0.45s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 117.21.229.204
+Host is up (0.44s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 117.41.184.24
+Host is up (0.35s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 118-021-235-130.jp.fiberbit.net (118.21.235.130)
+Host is up (0.25s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 118.85.104.133
+Host is up (0.43s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 118.126.18.181
+Host is up (0.52s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 118.244.22.112
+Host is up (0.42s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 118.244.25.87
+Host is up (0.42s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 118.244.32.122
+Host is up (0.41s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 118.244.39.217
+Host is up (0.41s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 121.14.229.135
+Host is up (0.39s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 121.97.75.207
+Host is up (0.34s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 122.226.253.60
+Host is up (0.42s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 124.172.131.78
+Host is up (0.44s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 124.172.132.218
+Host is up (3.1s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 124.172.135.110
+Host is up (0.52s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 124.172.135.209
+Host is up (0.47s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 124.172.143.135
+Host is up (0.45s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 124.173.106.83
+Host is up (0.39s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 124.173.132.208
+Host is up (3.0s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 128.7.67.65
+Host is up (0.021s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 130.101.32.169
+Host is up (0.12s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 130.101.39.6
+Host is up (0.12s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 131.204.76.72
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 141.219.2.158
+Host is up (0.16s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for ip-16-69.mofnet.gov.pl (145.237.16.69)
+Host is up (0.024s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 151.1.43.43
+Host is up (0.067s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 151.1.44.128
+Host is up (0.052s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 154.35.69.13
+Host is up (0.10s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 154.35.69.163
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 154.35.72.31
+Host is up (0.10s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 154.35.76.89
+Host is up (0.10s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 154.35.77.214
+Host is up (0.10s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 156.17.70.103
+Host is up (0.031s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 159.19.63.226
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 159.19.67.106
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 159.19.70.95
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 159.19.86.200
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 159.19.180.162
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 159.19.191.50
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 159.19.209.239
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 159.19.238.217
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 159.19.248.46
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.25.241
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.33.189
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.46.140
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.50.51
+Host is up (0.097s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.125.195
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.138.48
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.142.73
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.150.162
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.150.195
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.161.73
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.163.130
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.171.56
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.179.71
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.192.155
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.210.204
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.220.18
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.235.205
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 162.114.239.125
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 164.113.44.86
+Host is up (0.12s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 164.113.44.216
+Host is up (0.12s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 169.154.151.234
+Host is up (0.095s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 180-042-017-025.jp.fiberbit.net (180.42.17.25)
+Host is up (0.28s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 180-042-201-205.jp.fiberbit.net (180.42.201.205)
+Host is up (0.24s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 182.236.163.128
+Host is up (0.37s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 183.60.134.166
+Host is up (0.51s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 183.60.200.34
+Host is up (0.50s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for host-8-3-194.linksat.net.ar (190.8.3.194)
+Host is up (0.23s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for host-8-7-075.linksat.net.ar (190.8.7.75)
+Host is up (0.22s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 190.90.114.93
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 195.113.253.116
+Host is up (0.031s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 195.113.253.184
+Host is up (0.032s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for mar-0007.highland.cc.ks.us (198.248.74.113)
+Host is up (0.12s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 198.248.77.47
+Host is up (0.12s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 199.167.190.81
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for host-12-200-044.linksat.net.ar (200.12.200.44)
+Host is up (0.20s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for host-12-204-213.linksat.net.ar (200.12.204.213)
+Host is up (0.22s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 200-42-101-17.dup.prima.net.ar (200.42.101.17)
+Host is up (0.80s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for host17.200-108-65.telespazio.net.ar (200.108.65.17)
+Host is up (0.23s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for host66.200-108-88.telespazio.net.ar (200.108.88.66)
+Host is up (0.23s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for host236.200-108-88.telespazio.net.ar (200.108.88.236)
+Host is up (0.23s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 200.111.89.68
+Host is up (0.23s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 200.142.168.205
+Host is up (0.21s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 202.5.79.34
+Host is up (0.27s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for client161163.mynewsat.com.au (202.5.161.163)
+Host is up (0.34s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for client167018.mynewsat.com.au (202.5.167.18)
+Host is up (0.61s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 202.25.87.230
+Host is up (0.27s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 202.121.112.247
+Host is up (0.30s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 14-206.sktelecom.com (203.236.14.206)
+Host is up (0.36s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 205.204.137.255
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 205.204.192.181
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 205.204.249.170
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 205.204.250.20
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 205.204.253.78
+Host is up (0.11s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for host25088.jti-fob.juch-tech.com (208.122.250.88)
+Host is up (0.094s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for host250164.jti-fob.juch-tech.com (208.122.250.164)
+Host is up (0.095s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 209.216.99.190
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 209.216.101.132
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 209.216.107.0
+Host is up (0.15s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 209.239.86.151
+Host is up (0.10s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 210-61-193-217.HINET-IP.hinet.net (210.61.193.217)
+Host is up (0.27s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 210.166.245.93
+Host is up (0.25s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 211.13.202.78
+Host is up (0.24s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 211.54.63.246
+Host is up (0.31s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 212.22.225.152
+Host is up (0.070s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for static147.banetele-cust.com (213.52.47.147)
+Host is up (0.57s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 213-187-137-142.carrier2carrier.com (213.187.137.142)
+Host is up (0.020s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 213.192.200.211
+Host is up (0.045s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 216.117.246.95
+Host is up (0.13s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 216.117.246.98
+Host is up (0.13s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 216.139.170.193
+Host is up (0.58s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 217.21.103.197
+Host is up (0.047s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 217.21.106.52
+Host is up (0.041s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 217.74.231.94
+Host is up (0.27s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 130.253.143.219.broad.bj.bj.dynamic.163data.com.cn (219.143.253.130)
+Host is up (0.26s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 219.238.219.95
+Host is up (0.31s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 220.167.136.168
+Host is up (0.38s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 222.92.219.249
+Host is up (0.48s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 222.186.23.253
+Host is up (0.59s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 222.186.50.198
+Host is up (0.34s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+Nmap scan report for 222.187.96.105
+Host is up (0.44s latency).
+PORT     STATE SERVICE
+1471/tcp open  unknown
+
+# Nmap done at Fri Jul 25 16:21:15 2014 -- 1577 IP addresses (1577 hosts up) scanned in 278.52 seconds
